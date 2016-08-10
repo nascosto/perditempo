@@ -4,6 +4,7 @@ gizmodo.com
 news.ycombinator.com
 slashdot.org
 theverge.com
+wired.com
 
 cnn.com
 dailyherald.com
