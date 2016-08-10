@@ -13,4 +13,5 @@ news.google.com
 meh.com
 woot.com
 
+blastr.com
 dailymotion.com
