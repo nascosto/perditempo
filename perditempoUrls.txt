@@ -19,6 +19,7 @@ nytimes.com
 meh.com
 woot.com
 
+agar.io
 blastr.com
 dailymotion.com
 huffingtonpost.com
