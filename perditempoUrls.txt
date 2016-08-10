@@ -3,11 +3,15 @@ engadget.com
 gizmodo.com
 news.ycombinator.com
 slashdot.org
+theverge.com
 
 cnn.com
-ksl.com
-foxnews.com
+dailyherald.com
+deseretnews.com
 forbes.com
+foxnews.com
+ksl.com
+msnbc.com
 news.google.com
 
 meh.com
@@ -15,4 +19,6 @@ woot.com
 
 blastr.com
 dailymotion.com
+huffingtonpost.com
+salon.com
 zergnet.com
