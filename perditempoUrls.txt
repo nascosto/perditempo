@@ -16,6 +16,10 @@ msnbc.com
 news.google.com
 nytimes.com
 
+amazon.com/Prime-Video
+hulu.com
+netflix.com
+
 meh.com
 woot.com
 
