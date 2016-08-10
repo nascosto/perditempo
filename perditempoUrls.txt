@@ -1,0 +1,16 @@
+news.ycombinator.com
+engadget.com
+arstechnica.com
+gizmodo.com
+slashdot.org
+
+ksl.com
+foxnews.com
+cnn.com
+news.google.com
+forbes.com
+
+meh.com
+woot.com
+
+dailymotion.com
