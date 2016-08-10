@@ -13,6 +13,7 @@ foxnews.com
 ksl.com
 msnbc.com
 news.google.com
+nytimes.com
 
 meh.com
 woot.com
