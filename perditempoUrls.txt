@@ -1,14 +1,14 @@
-news.ycombinator.com
-engadget.com
 arstechnica.com
+engadget.com
 gizmodo.com
+news.ycombinator.com
 slashdot.org
 
+cnn.com
 ksl.com
 foxnews.com
-cnn.com
-news.google.com
 forbes.com
+news.google.com
 
 meh.com
 woot.com
