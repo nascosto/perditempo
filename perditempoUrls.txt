@@ -27,5 +27,6 @@ agar.io
 blastr.com
 dailymotion.com
 huffingtonpost.com
+kisscartoon.se
 salon.com
 zergnet.com
