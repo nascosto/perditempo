@@ -39,4 +39,5 @@
 |https://imgs.xkcd.com/comics/writing_skills.png
 
 arstechnica.com###article-footer-wrap
+arstechnica.com##.site-footer
 arstechnica.com###social-footer
