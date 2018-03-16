@@ -43,7 +43,6 @@ arstechnica.com##.site-footer
 arstechnica.com###social-footer
 dilbert.com##.container-header
 dilbert.com##.js-amu-social-section
-dilbert.com###js-cookie-consent
 dilbert.com##.shelf-space-container
 dilbert.com##.site-bg-bar
 dilbert.com##.star-rating
