@@ -41,6 +41,7 @@
 arstechnica.com###article-footer-wrap
 arstechnica.com##.site-footer
 arstechnica.com###social-footer
+dilbert.com##.amu-comments-container
 dilbert.com##.container-header
 dilbert.com##.js-amu-social-section
 dilbert.com##.meta-info-container > :not(.comic-item)
