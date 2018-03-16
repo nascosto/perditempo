@@ -37,3 +37,5 @@
 |https://imgs.xkcd.com/comics/valentine.jpg
 |https://imgs.xkcd.com/comics/violin_plots.png
 |https://imgs.xkcd.com/comics/writing_skills.png
+
+arstechnica.com###article-footer-wrap
