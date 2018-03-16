@@ -41,3 +41,5 @@
 arstechnica.com###article-footer-wrap
 arstechnica.com##.site-footer
 arstechnica.com###social-footer
+engadget.com###comments
+engadget.com###recirculation
