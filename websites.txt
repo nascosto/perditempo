@@ -8,6 +8,7 @@ wired.com
 
 cnn.com
 dailyherald.com
+dailywire.com
 deseretnews.com
 forbes.com
 foxnews.com
@@ -19,6 +20,7 @@ nytimes.com
 amazon.com/Prime-Video
 hulu.com
 netflix.com
+youtube.com/feed/trending
 
 meh.com
 woot.com
