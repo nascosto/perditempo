@@ -41,5 +41,9 @@
 arstechnica.com###article-footer-wrap
 arstechnica.com##.site-footer
 arstechnica.com###social-footer
+dilbert.com##.container-header
+dilbert.com##.shelf-space-container
+dilbert.com##.site-bg-bar
+dilbert.com##.star-rating
 engadget.com###comments
 engadget.com###recirculation
