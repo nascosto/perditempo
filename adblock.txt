@@ -53,3 +53,4 @@ dilbert.com##.site-footer
 dilbert.com##.star-rating
 engadget.com###comments
 engadget.com###recirculation
+app.youneedabudget.com##.referral-program
