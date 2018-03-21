@@ -53,4 +53,8 @@ dilbert.com##.site-footer
 dilbert.com##.star-rating
 engadget.com###comments
 engadget.com###recirculation
+facebook.com###pagelet_canvas_nav_content
+facebook.com###pagelet_ego_pane
+facebook.com###pagelet_games_rhc
+facebook.com###pagelet_trending_tags_and_topics
 app.youneedabudget.com##.referral-program
