@@ -43,6 +43,7 @@ arstechnica.com###article-footer-wrap
 arstechnica.com##.site-footer
 arstechnica.com###social-footer
 arstechnica.com###social-footer > .comment-count
+arstechnica.com###social-left
 arstechnica.com##.tease-.tease > footer
 arstechnica.com##.tease-row.tease > footer
 bing.com###hp_bottomCell
