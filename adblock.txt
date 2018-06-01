@@ -62,3 +62,15 @@ facebook.com###pagelet_ego_pane
 facebook.com###pagelet_games_rhc
 facebook.com###pagelet_trending_tags_and_topics
 app.youneedabudget.com##.referral-program
+
+||arstechnica.com^
+||dilbert.com^
+||engadget.com^
+||gizmodo.com^
+}}jl8comic.tumblr.com^
+||limbero.org^
+||meh.com^
+||news.google.com^
+||woot.com^
+||xkcd.com^
+
