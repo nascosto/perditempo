@@ -67,7 +67,7 @@ app.youneedabudget.com##.referral-program
 ||dilbert.com^
 ||engadget.com^
 ||gizmodo.com^
-}}jl8comic.tumblr.com^
+||jl8comic.tumblr.com^
 ||limbero.org^
 ||meh.com^
 ||news.google.com^
