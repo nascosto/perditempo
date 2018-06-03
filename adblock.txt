@@ -71,6 +71,7 @@ app.youneedabudget.com##.referral-program
 ||limbero.org^
 ||meh.com^
 ||news.google.com^
+||tv.xfinity.com^
 ||woot.com^
 ||xkcd.com^
 
