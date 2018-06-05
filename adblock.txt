@@ -61,6 +61,9 @@ facebook.com###pagelet_canvas_nav_content
 facebook.com###pagelet_ego_pane
 facebook.com###pagelet_games_rhc
 facebook.com###pagelet_trending_tags_and_topics
+news.slashdot.org##.comment-bubble
+news.slashdot.org###comments
+news.slashdot.org###fhft
 app.youneedabudget.com##.referral-program
 
 ||arstechnica.com^
@@ -71,6 +74,7 @@ app.youneedabudget.com##.referral-program
 ||limbero.org^
 ||meh.com^
 ||news.google.com^
+||slashdot.org^
 ||tv.xfinity.com^
 ||woot.com^
 ||xkcd.com^
