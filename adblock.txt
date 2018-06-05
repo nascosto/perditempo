@@ -80,6 +80,7 @@ app.youneedabudget.com##.referral-program
 ||news.google.com^
 ||news.ycombinator.com^
 ||slashdot.org^
+||theverge.com^
 ||tv.xfinity.com^
 ||woot.com^
 ||xkcd.com^
