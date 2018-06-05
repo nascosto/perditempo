@@ -68,13 +68,17 @@ news.ycombinator.com##.comment-tree
 app.youneedabudget.com##.referral-program
 
 ||arstechnica.com^
+||bbc.com^
+||cnn.com^
 ||dilbert.com^
 ||engadget.com^
+||foxnews.com^
 ||gizmodo.com^
 ||jl8comic.tumblr.com^
 ||limbero.org^
 ||meh.com^
 ||news.google.com^
+||news.ycombinator.com^
 ||slashdot.org^
 ||tv.xfinity.com^
 ||woot.com^
