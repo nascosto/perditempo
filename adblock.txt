@@ -64,6 +64,7 @@ facebook.com###pagelet_trending_tags_and_topics
 news.slashdot.org##.comment-bubble
 news.slashdot.org###comments
 news.slashdot.org###fhft
+news.ycombinator.com##.comment-tree
 app.youneedabudget.com##.referral-program
 
 ||arstechnica.com^
