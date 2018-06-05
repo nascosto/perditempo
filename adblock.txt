@@ -1,4 +1,7 @@
 [Adblock Plus 2.0]
+! Expires: 1 days
+! Title: PerdiTempo
+! Homepage: https://github.com/nascosto/perditempo
 |https://imgs.xkcd.com/comics/abusive_astronomy.jpg
 |https://imgs.xkcd.com/comics/apple_jacks.jpg
 |https://imgs.xkcd.com/comics/banter.jpg
