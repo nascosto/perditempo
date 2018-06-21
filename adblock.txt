@@ -70,6 +70,8 @@ news.slashdot.org###fhft
 news.ycombinator.com##.comment-tree
 app.youneedabudget.com##.referral-program
 
+||amazon.com/Amazon-Video/$document
+||amazon.com/gp/video/$document
 ||arstechnica.com^
 ||bbc.com^
 ||cnn.com^
