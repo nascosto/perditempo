@@ -78,6 +78,7 @@ app.youneedabudget.com##.referral-program
 ||foxnews.com^
 ||gizmodo.com^
 ||jl8comic.tumblr.com^
+||limbero.com^
 ||limbero.org^
 ||meh.com^
 ||news.google.com^
