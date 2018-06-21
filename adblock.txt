@@ -69,8 +69,7 @@ news.slashdot.org###comments
 news.slashdot.org###fhft
 news.ycombinator.com##.comment-tree
 app.youneedabudget.com##.referral-program
-youtube.com##ytd-guide-entry-renderer:has(:has-text(/Trending/))
-youtube.com##ytd-guide-section-renderer:has(:has-text(/More from YouTube/))
+
 
 ||amazon.com/Amazon-Video/$document
 ||amazon.com/gp/video/$document
