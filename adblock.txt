@@ -81,6 +81,7 @@ app.youneedabudget.com##.referral-program
 ||limbero.com^
 ||limbero.org^
 ||meh.com^
+||netflix.com^
 ||news.google.com^
 ||news.ycombinator.com^
 ||slashdot.org^
@@ -88,4 +89,5 @@ app.youneedabudget.com##.referral-program
 ||tv.xfinity.com^
 ||woot.com^
 ||xkcd.com^
+||zdnet.com^
 
