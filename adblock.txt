@@ -96,6 +96,7 @@ youtube.com##ytd-guide-section-renderer:has-text(/More from YouTube/)
 ||techcrunch.com^
 ||theverge.com^
 ||tv.xfinity.com^
+||wired.com^
 ||woot.com^
 ||xkcd.com^
 ||youtube.com^
