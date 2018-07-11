@@ -85,6 +85,7 @@ youtube.com##ytd-guide-section-renderer:has-text(/More from YouTube/)
 ||foxnews.com^
 ||gizmodo.com^
 ||jl8comic.tumblr.com^
+||*kisscartoon.*^
 ||ksl.com^
 ||limbero.com^
 ||limbero.org^
@@ -97,6 +98,8 @@ youtube.com##ytd-guide-section-renderer:has-text(/More from YouTube/)
 ||techcrunch.com^
 ||theverge.com^
 ||tv.xfinity.com^
+||*watchcartoonsonline.*^
+||*watchseries.*^
 ||wired.com^
 ||woot.com^
 ||xkcd.com^
