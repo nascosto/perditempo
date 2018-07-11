@@ -92,6 +92,7 @@ youtube.com##ytd-guide-section-renderer:has-text(/More from YouTube/)
 ||netflix.com^
 ||news.google.com^
 ||news.ycombinator.com^
+||*putlocker.*^
 ||slashdot.org^
 ||techcrunch.com^
 ||theverge.com^
