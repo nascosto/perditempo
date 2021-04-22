@@ -21,8 +21,10 @@ nytimes.com
 amazon.com/Prime-Video
 hulu.com
 netflix.com
+peacock.com
 youtube.com/feed/trending
 
+amazon.com
 meh.com
 woot.com
 
