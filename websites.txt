@@ -5,6 +5,7 @@ news.ycombinator.com
 slashdot.org
 theverge.com
 wired.com
+zdnet.com
 
 cnn.com
 dailyherald.com
