@@ -24,6 +24,10 @@ netflix.com
 peacock.com
 youtube.com/feed/trending
 
+facebook.com
+instagram.com
+twitter.com
+
 amazon.com
 meh.com
 woot.com
