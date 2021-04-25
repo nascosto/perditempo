@@ -22,6 +22,7 @@ amazon.com/Prime-Video
 hulu.com
 netflix.com
 peacocktv.com
+youtube.com
 youtube.com/feed/trending
 
 facebook.com
