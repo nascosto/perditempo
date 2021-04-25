@@ -21,7 +21,7 @@ nytimes.com
 amazon.com/Prime-Video
 hulu.com
 netflix.com
-peacock.com
+peacocktv.com
 youtube.com/feed/trending
 
 facebook.com
