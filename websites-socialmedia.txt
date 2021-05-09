@@ -6,5 +6,7 @@ snapchat.com
 www.snapchat.com
 tiktok.com
 www.tiktok.com
+tumblr.com
+www.tumblr.com
 twitter.com
 www.twitter.com
