@@ -179,7 +179,6 @@ tv.youtube.com
 
 amazon.com/Prime-Video
 youtube.com
-youtube.com/feed/trending
 
 amazon.com
 humblebundle.com
