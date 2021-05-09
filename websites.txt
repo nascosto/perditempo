@@ -166,6 +166,9 @@ peacocktv.com
 www.peacocktv.com
 tubitv.com
 www.tubitv.com
+xfinity.com
+tv.xfinity.com
+www.xfinity.com
 tv.youtube.com
 
 amazon.com/Prime-Video
