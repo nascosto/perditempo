@@ -1,4 +1,4 @@
-# General
+# General News
 abcnews.go.com
 al.com
 www.al.com
@@ -104,7 +104,7 @@ www.vox.com
 washingtonpost.com
 www.washingtonpost.com
 
-# Tech
+# Tech News
 arstechnica.com
 www.arstechnica.com
 cnet.com
