@@ -3,3 +3,5 @@ agar.io
 www.agar.io
 humblebundle.com
 www.humblebundle.com
+slither.io
+www.slither.io
