@@ -1,6 +1,8 @@
 # Games
 agar.io
 www.agar.io
+diep.io
+www.diep.io
 humblebundle.com
 www.humblebundle.com
 slither.io
