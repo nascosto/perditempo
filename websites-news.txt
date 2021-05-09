@@ -126,3 +126,5 @@ wired.com
 www.wired.com
 zdnet.com
 www.zdnet.com
+zergnet.com
+www.zergnet.com
