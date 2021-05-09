@@ -105,6 +105,8 @@ vox.com
 www.vox.com
 washingtonpost.com
 www.washingtonpost.com
+zergnet.com
+www.zergnet.com
 
 # Tech News
 arstechnica.com
@@ -126,5 +128,3 @@ wired.com
 www.wired.com
 zdnet.com
 www.zdnet.com
-zergnet.com
-www.zergnet.com
