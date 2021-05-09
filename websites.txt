@@ -177,13 +177,23 @@ tv.xfinity.com
 www.xfinity.com
 tv.youtube.com
 
+# Games
+agar.io
+www.agar.io
+humblebundle.com
+www.humblebundle.com
+
+# Shopping
+humblebundle.com
+www.humblebundle.com
+meh.com
+www.meh.com
+woot.com
+www.woot.com
+
 amazon.com/Prime-Video
 youtube.com
 
 amazon.com
-humblebundle.com
-meh.com
-woot.com
 
-agar.io
 deviantart.com
