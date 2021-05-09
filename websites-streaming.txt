@@ -1,7 +1,10 @@
+# Streaming
 crackle.com
 www.crackle.com
 crunchyroll.com
 www.crunchyroll.com
+dailymotion.com
+www.dailymotion.com
 disneyplus.com
 www.disneyplus.com
 fubo.tv
