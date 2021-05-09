@@ -79,6 +79,8 @@ sfgate.com
 www.sfgate.com
 slate.com
 www.slate.com
+syfy.com
+www.syfy.com
 telegraph.co.uk
 www.telegraph.co.uk
 theatlantic.com
