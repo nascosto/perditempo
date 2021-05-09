@@ -1,4 +1,11 @@
 # General
+abcnews.go.com
+bbc.com
+www.bbc.com
+bleacherreport.com
+www.bleacherreport.com
+businessinsider.com
+www.businessinsider.com
 buzzfeed.com
 www.buzzfeed.com
 cbsnews.com
@@ -7,10 +14,14 @@ cnn.com
 www.cnn.com
 dailyherald.com
 www.dailyherald.com
+dailymail.co.uk
+www.dailymail.co.uk
 dailywire.com
 www.dailywire.com
 deseretnews.com
 www.deseretnews.com
+elitedaily.com
+www.elitedaily.com
 forbes.com
 www.forbes.com
 foxnews.com
@@ -19,23 +30,41 @@ huffingtonpost.com
 www.huffingtonpost.com
 ksl.com
 www.ksl.com
+mashable.com
+www.mashable.com
+msn.com
+www.msn.com
 msnbc.com
 www.msnbc.com
+nbcnews.com
+www.nbcnews.com
+npr.org
+www.npr.org
 news.google.com
+nydailynews.com
+www.nydailynews.com
 nytimes.com
 www.nytimes.com
 salon.com
 www.salon.com
 slate.com
 www.slate.com
+theguardian.com
+www.theguardian.com
 usatoday.com
 www.usatoday.com
+usnews.com
+www.usnews.com
+vox.com
+www.vox.com
 washingtonpost.com
 www.washingtonpost.com
 
 # Tech
 arstechnica.com
 www.arstechnica.com
+cnet.com
+www.cnet.com
 engadget.com
 www.engadget.com
 gizmodo.com
@@ -43,6 +72,8 @@ www.gizmodo.com
 news.ycombinator.com
 slashdot.org
 www.slashdot.org
+techcrunch.com
+www.techcrunch.com
 theverge.com
 www.theverge.com
 wired.com
