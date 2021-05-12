@@ -37,6 +37,8 @@ syfy.com
 www.syfy.com
 tubitv.com
 www.tubitv.com
+vimeo.com
+www.vimeo.com
 vudu.com
 www.vudu.com
 xfinity.com
