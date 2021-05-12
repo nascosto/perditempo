@@ -144,8 +144,11 @@ twitter.com
 www.twitter.com
 
 # Streaming
+tv.apple.com
 crackle.com
 www.crackle.com
+criterionchannel.com
+www.criterionchannel.com
 crunchyroll.com
 www.crunchyroll.com
 dailymotion.com
@@ -156,8 +159,12 @@ fubo.tv
 www.fubo.tv
 hbomax.com
 www.hbomax.com
+hoopladigital.com
+www.hoopladigital.com
 hulu.com
 www.hulu.com
+kanopy.com
+www.kanopy.com
 kweli.tv
 www.kweli.tv
 netflix.com
@@ -168,11 +175,15 @@ peacock.com
 www.peacock.com
 peacocktv.com
 www.peacocktv.com
+popcornflix.com
+www.popcornflix.com
 therokuchannel.roku.com
 syfy.com
 www.syfy.com
 tubitv.com
 www.tubitv.com
+vudu.com
+www.vudu.com
 xfinity.com
 tv.xfinity.com
 www.xfinity.com
