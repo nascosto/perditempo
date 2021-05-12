@@ -23,6 +23,7 @@ peacock.com
 www.peacock.com
 peacocktv.com
 www.peacocktv.com
+therokuchannel.roku.com
 syfy.com
 www.syfy.com
 tubitv.com
