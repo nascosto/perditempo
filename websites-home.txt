@@ -1,3 +1,2 @@
-^.*googlevideo.com
 youtube.com
 www.youtube.com
