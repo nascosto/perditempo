@@ -1,4 +1,7 @@
 yt3.ggpht.com
+manifest.googlevideo.com
+www.googlevideo.com
+googlevideo.com
 youtube.com
 www.youtube.com
 i.ytimg.com
