@@ -18,6 +18,8 @@ hoopladigital.com
 www.hoopladigital.com
 hulu.com
 www.hulu.com
+imdb.com
+www.imdb.com
 kanopy.com
 www.kanopy.com
 kweli.tv
