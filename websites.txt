@@ -218,7 +218,7 @@ www.meh.com
 woot.com
 www.woot.com
 
-amazon.com/Prime-Video
+amazon.com/Amazon-Video
 youtube.com
 
 amazon.com
