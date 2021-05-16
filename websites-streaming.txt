@@ -1,4 +1,7 @@
 # Streaming
+atv-ext.amazon.com
+atv-ps.amazon.com
+fals.atv-ps.amazon.com
 tv.apple.com
 crackle.com
 www.crackle.com
