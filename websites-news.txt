@@ -38,6 +38,8 @@ elitedaily.com
 www.elitedaily.com
 forbes.com
 www.forbes.com
+fox13news.com
+www.fox13news.com
 foxnews.com
 www.foxnews.com
 freep.com
