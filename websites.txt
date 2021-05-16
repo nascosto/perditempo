@@ -150,6 +150,9 @@ twitter.com
 www.twitter.com
 
 # Streaming
+atv-ext.amazon.com
+atv-ps.amazon.com
+fals.atv-ps.amazon.com
 tv.apple.com
 crackle.com
 www.crackle.com
@@ -169,6 +172,8 @@ hoopladigital.com
 www.hoopladigital.com
 hulu.com
 www.hulu.com
+imdb.com
+www.imdb.com
 kanopy.com
 www.kanopy.com
 kweli.tv
