@@ -209,6 +209,9 @@ humblebundle.com
 www.humblebundle.com
 slither.io
 www.slither.io
+steampowered.com
+store.steampowered.com
+www.steampowered.com
 
 # Shopping
 humblebundle.com
