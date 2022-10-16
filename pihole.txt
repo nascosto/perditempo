@@ -1,6 +1,0 @@
-# Website blocking list by nascosto
-
-dailymotion.com
-www.dailymotion.com
-deviantart.com
-www.deviantart.com

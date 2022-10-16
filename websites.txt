@@ -2,6 +2,8 @@
 abcnews.go.com
 al.com
 www.al.com
+aljazeera.com
+www.aljazeera.com
 bbc.com
 www.bbc.com
 bleacherreport.com
@@ -126,6 +128,8 @@ slashdot.org
 www.slashdot.org
 techcrunch.com
 www.techcrunch.com
+techdirt.com
+www.techdirt.com
 theverge.com
 www.theverge.com
 wired.com
@@ -135,9 +139,12 @@ www.zdnet.com
 
 # Social Media
 facebook.com
+m.facebook.com
 www.facebook.com
 instagram.com
 www.instagram.com
+linkedin.com
+www.linkedin.com
 pinterest.com
 www.pinterest.com
 snapchat.com
@@ -203,6 +210,20 @@ xfinity.com
 tv.xfinity.com
 www.xfinity.com
 tv.youtube.com
+youtube.com
+m.youtube.com
+www.youtube.com
+youtube-nocookie.com
+ww1.youtube-nocookies.com
+www.youtube-nocookie.com
+
+yt3.ggpht.com
+manifest.googlevideo.com
+googlevideo.com
+www.googlevideo.com
+youtube.googleapis.com
+youtubei.googleapis.com
+i.ytimg.com
 
 # Games
 agar.io
@@ -225,9 +246,6 @@ www.meh.com
 woot.com
 www.woot.com
 
-amazon.com/Amazon-Video
-youtube.com
-
-amazon.com
-
+# Other
 deviantart.com
+www.deviantart.com

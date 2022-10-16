@@ -2,6 +2,8 @@
 abcnews.go.com
 al.com
 www.al.com
+aljazeera.com
+www.aljazeera.com
 bbc.com
 www.bbc.com
 bleacherreport.com
@@ -126,6 +128,8 @@ slashdot.org
 www.slashdot.org
 techcrunch.com
 www.techcrunch.com
+techdirt.com
+www.techdirt.com
 theverge.com
 www.theverge.com
 wired.com
