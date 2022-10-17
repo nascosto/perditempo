@@ -228,6 +228,8 @@ i.ytimg.com
 # Games
 agar.io
 www.agar.io
+boardgamearena.com
+www.boardgamearena.com
 diep.io
 www.diep.io
 humblebundle.com
