@@ -1,5 +1,15 @@
 # https://letsblock.it/filters/search-results
 # .pinterest.
+*://stackshare.io/*
+*://www.libhunt.com/*
+*://github-wiki-see.page/*
+*://githublab.com/*
+*://bytemeta.vip/*
+*://issuemode.com/*
+*://www.g2.com/*
+*://www.consumeraffairs.com/*
+*://rxmechanic.com/*
+*://dev.to/*
 
 google.*##.g:has(a[href*=".pinterest."])
 google.*##a[href*=".pinterest."]:upward(1)
