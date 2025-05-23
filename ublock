@@ -1,0 +1,15 @@
+! May 12, 2025 https://www.ksl.com
+www.ksl.com###commentsContainer
+! Article footer social media section
+www.ksl.com##.authors_bio > div > ul
+www.ksl.com##.social_icons
+! Article toolbar with comment bubble and bookmarker
+www.ksl.com##.toolbar
+
+! May 12, 2025 https://arstechnica.com
+arstechnica.com##.sm\:text-lg.dark\:border-gray-700.text-sm.border-t-4.border-b-4.justify-between.items-center.flex.story-tools
+arstechnica.com##.hover\:text-gray-500.text-gray-300.view-comments
+! Divider between comments and other
+arstechnica.com##.whitespace-nowrap > .text-gray-550
+! Footer social media section
+arstechnica.com##.md\:text-left.md\:w-3\/5.text-center.site-footer-statement > .mt-4
