@@ -16,3 +16,7 @@ arstechnica.com##.hover\:text-gray-500.text-gray-300.view-comments
 arstechnica.com##.whitespace-nowrap > .text-gray-550
 ! Footer social media section
 arstechnica.com##.md\:text-left.md\:w-3\/5.text-center.site-footer-statement > .mt-4
+
+! Oct 15, 2025 https://feedly.com
+! Suggested feeds
+feedly.com##.col-xl-3-xlarge-only.col-xl-3
