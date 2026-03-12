@@ -8,6 +8,8 @@ www.ksl.com##.toolbar
 www.ksl.com###translateDiv
 ! Article how long to read
 www.ksl.com###kslMainArticle > p
+! Mar 12, 2026 https://www.ksl.com
+www.ksl.com##.comment-count
 
 ! May 12, 2025 https://arstechnica.com
 arstechnica.com##.sm\:text-lg.dark\:border-gray-700.text-sm.border-t-4.border-b-4.justify-between.items-center.flex.story-tools
