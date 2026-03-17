@@ -1,3 +1,34 @@
-# Other
-deviantart.com
-www.deviantart.com
+! Entertainment & Misc
+||atlasobscura.com^
+||babylonbee.com^
+||boredpanda.com^
+||buzzfeednews.com^
+||cracked.com^
+||deviantart.com^
+||fandom.com^
+||geoguessr.com^
+||knowyourmeme.com^
+||listverse.com^
+||mentalfloss.com^
+||ranker.com^
+||sporcle.com^
+||theonion.com^
+||tvtropes.org^
+||wikia.com^
+||wordle.nytimes.com^
+||xkcd.com^
+
+! Forums & Discussion
+||4chan.org^
+||4channel.org^
+||8kun.top^
+||9gag.com^
+||digg.com^
+||fark.com^
+||imgur.com^
+||kbin.social^
+||lemmy.ml^
+||lemmy.world^
+||quora.com^
+||stackexchange.com^
+||voat.co^

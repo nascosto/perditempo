@@ -1,7 +1,10 @@
-# Shopping
-humblebundle.com
-www.humblebundle.com
-meh.com
-www.meh.com
-woot.com
-www.woot.com
+! Shopping & Deals
+||bensbargains.com^
+||dealnews.com^
+||fatwallet.com^
+||humblebundle.com^
+||meh.com^
+||retailmenot.com^
+||slickdeals.net^
+||techbargains.com^
+||woot.com^

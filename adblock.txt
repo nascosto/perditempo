@@ -2,6 +2,11 @@
 ! Expires: 1 days
 ! Title: PerdiTempo
 ! Homepage: https://github.com/nascosto/perditempo
+
+! ===========================
+! Cosmetic filters
+! ===========================
+
 |https://imgs.xkcd.com/comics/abusive_astronomy.jpg
 |https://imgs.xkcd.com/comics/apple_jacks.jpg
 |https://imgs.xkcd.com/comics/banter.jpg
@@ -41,71 +46,95 @@
 |https://imgs.xkcd.com/comics/violin_plots.png
 |https://imgs.xkcd.com/comics/writing_skills.png
 
+
+! Amazon - hide Prime Video promotions
 amazon.com##[data-nav-panelkey="InstantVideoPanel"]
 amazon.com##.fsdDeptBox:has-text(/Prime Video/)
 amazon.com##.fsdRecommendationCard:has-text(/Prime Video/)
 amazon.com###nav-upnav
+
+! Ars Technica - hide comments and social
 arstechnica.com###article-footer-wrap
 arstechnica.com##.site-footer
 arstechnica.com###social-footer
 arstechnica.com###social-footer > .comment-count
 arstechnica.com###social-left
-arstechnica.com##.tease-.tease > footer
 arstechnica.com##.tease-row.tease > footer
+
+! Bing - hide homepage content
 bing.com###hp_bottomCell
-dilbert.com##.amu-comments-container
-dilbert.com##.container-header
-dilbert.com##.js-amu-social-section
-dilbert.com##.meta-info-container > :not(.comic-item)
-dilbert.com##.shelf-space-container
-dilbert.com##.site-bg-bar
-dilbert.com##.site-footer
-dilbert.com##.star-rating
+
+! Engadget - hide comments and recirculation
 engadget.com###comments
 engadget.com###recirculation
+
+! Facebook - hide distracting sidebars
 facebook.com###pagelet_canvas_nav_content
 facebook.com###pagelet_ego_pane
 facebook.com###pagelet_games_rhc
 facebook.com###pagelet_trending_tags_and_topics
+
+! Hacker News - hide comments
+news.ycombinator.com##.comment-tree
+
+! Slashdot - hide comments
 news.slashdot.org##.comment-bubble
 news.slashdot.org###comments
 news.slashdot.org###fhft
-news.ycombinator.com##.comment-tree
+
+! YNAB - hide referral program
 app.youneedabudget.com##.referral-program
+
+! YouTube - hide algorithmic time sinks
 youtube.com##ytd-guide-entry-renderer:has-text(/Trending/)
 youtube.com##ytd-guide-section-renderer:has-text(/More from YouTube/)
+youtube.com##ytd-rich-section-renderer:has-text(/Shorts/)
+youtube.com##ytd-reel-shelf-renderer
+
+! Reddit - hide distracting elements
+reddit.com##shreddit-trending-topics
+reddit.com##[data-testid="frontpage-sidebar"]
+
+! ===========================
+! Site blocks
+! ===========================
 
 ||amazon.com/Amazon-Video/$document
 ||amazon.com/gp/video/$document
 ||arstechnica.com^
 ||bbc.com^
+||bsky.app^
 ||cnn.com^
-||dilbert.com^
+||discord.com^
+||disneyplus.com^
 ||engadget.com^
+||facebook.com^
 ||foxnews.com^
 ||gizmodo.com^
-||jl8comic.tumblr.com^
-||*kisscartoon.*^
+||hbomax.com^
+||hulu.com^
+||instagram.com^
 ||ksl.com^
-||limbero.com^
-||limbero.org^
+||max.com^
 ||meh.com^
 ||netflix.com^
 ||news.google.com^
 ||news.ycombinator.com^
-||*putlocker.*^
-||*putlockers.*^
+||paramountplus.com^
+||reddit.com^
 ||slashdot.org^
 ||techcrunch.com^
 ||theverge.com^
-||thinkgeek.com^
+||threads.net^
+||tiktok.com^
 ||tv.xfinity.com^
-||*watchcartoonsonline.*^
-||*watchseries.*^
+||twitch.tv^
+||twitter.com^
 ||wired.com^
 ||woot.com^
+||x.com^
 ||xkcd.com^
 ||youtube.com^
-||youtube.com/feed/trending$document
 ||zdnet.com^
 
+||youtube.com/feed/trending$document

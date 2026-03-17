@@ -1,14 +1,21 @@
-# Games
-agar.io
-www.agar.io
-boardgamearena.com
-www.boardgamearena.com
-diep.io
-www.diep.io
-humblebundle.com
-www.humblebundle.com
-slither.io
-www.slither.io
-steampowered.com
-store.steampowered.com
-www.steampowered.com
+! Games
+||addictinggames.com^
+||agar.io^
+||boardgamearena.com^
+||coolmathgames.com^
+||crazygames.com^
+||diep.io^
+||epicgames.com^
+||gog.com^
+||humblebundle.com^
+||iogames.space^
+||itch.io^
+||kongregate.com^
+||miniclip.com^
+||newgrounds.com^
+||poki.com^
+||roblox.com^
+||slither.io^
+||steamcommunity.com^
+||steampowered.com^
+||store.steampowered.com^
