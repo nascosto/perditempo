@@ -23,6 +23,7 @@
 ||theonion.com^
 ||tvtropes.org^
 ||wikia.com^
+||wikipedia.org^
 ||wordle.nytimes.com^
 ||xkcd.com^
 
@@ -134,6 +135,7 @@
 ! ===========================
 ! Shopping & Deals
 ! ===========================
+||amazon.com^
 ||bensbargains.com^
 ||dealnews.com^
 ||fatwallet.com^

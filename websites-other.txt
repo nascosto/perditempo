@@ -15,6 +15,7 @@
 ||theonion.com^
 ||tvtropes.org^
 ||wikia.com^
+||wikipedia.org^
 ||wordle.nytimes.com^
 ||xkcd.com^
 
