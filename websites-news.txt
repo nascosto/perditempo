@@ -49,10 +49,12 @@
 ||slate.com^
 ||telegraph.co.uk^
 ||theatlantic.com^
+||twz.com^
 ||theblaze.com^
 ||thedailybeast.com^
 ||theguardian.com^
 ||time.com^
+||understandingwar.org^
 ||upworthy.com^
 ||usatoday.com^
 ||usnews.com^

@@ -1,5 +1,4 @@
 ! Shopping & Deals
-||amazon.com^
 ||bensbargains.com^
 ||dealnews.com^
 ||fatwallet.com^
