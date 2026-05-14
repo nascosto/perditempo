@@ -6,6 +6,8 @@
 ||crazygames.com^
 ||diep.io^
 ||epicgames.com^
+||games.google.com^
+||games.googleapis.com^
 ||gog.com^
 ||humblebundle.com^
 ||iogames.space^
@@ -13,6 +15,11 @@
 ||kongregate.com^
 ||miniclip.com^
 ||newgrounds.com^
+||play.google.com^
+||play.googleapis.com^
+||playatoms-pa.googleapis.com^
+||playgateway-pa.googleapis.com^
+||playstoregatewayauth-pa.googleapis.com^
 ||poki.com^
 ||roblox.com^
 ||slither.io^
